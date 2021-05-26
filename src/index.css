@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding:0;
+}
+
+
+.wrapper {
+    background-color: orange;
+    height: 100vh;
+    width: 50%;
+    margin: auto;
+    position:absolute;
+    left:28%
+}
+
+.heading {
+    background-color: black;
+    color:white;
+    margin-bottom: 50px;
+    min-height: 100px;
+    font-weight: 800;
+}
+
+.heading h1 {
+    position: relative;
+    padding-top:4%;
+    text-transform: uppercase;
+}
+
+.box {
+    background-color:white;
+}
+
+.result {
+    position: relative;
+    top:0px
+}

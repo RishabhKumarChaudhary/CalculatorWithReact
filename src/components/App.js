@@ -14,7 +14,7 @@ class App extends React.Component {
 
             <div className="container text-center">
                 <div className="row ">
-                    <div className="col-xl-12">
+                    <div className="col-xl-12 heading">
                         <h1 >Calculator</h1>
                     </div>
                 </div>
